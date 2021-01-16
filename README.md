@@ -1,4 +1,4 @@
-# petz
+# Automação de testes WEB
 
 Site utilizado: https://www.petz.com.br/
 
