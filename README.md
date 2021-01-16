@@ -1,6 +1,6 @@
 # petz
 
-site usado: https://www.petz.com.br/
+Site utilizado: https://www.petz.com.br/
 
 Automação de teste dos fluxos:
 
