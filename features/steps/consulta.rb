@@ -6,7 +6,7 @@ Dado('que eu acesse o site da petz') do
     pesquisa(prod)
   end                                                                           
                                                                                 
-  Então('redirecionado para a pagina de resultados da busca') do       
+  Então('devo ser redirecionado para a pagina de resultados da busca') do       
     expect(page).to have_text @prod
   end  
   

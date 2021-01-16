@@ -2,7 +2,7 @@
 
 Quando('selecionar o item do resultado') do 
                                   
-    link = page.find(:css, 'a[href="/produto/racao-royal-canin-maxi-caes-adultos-15kg-71805"]').click
+     find('a[href="/produto/racao-royal-canin-maxi-caes-adultos-15kg-71805"]').click
   end                                                                           
                                                                                 
   Então('devo ser redirecionado para pagina com mais informações') do           
